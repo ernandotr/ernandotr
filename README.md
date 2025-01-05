@@ -11,5 +11,5 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ernandotr&layout=compact&bg_color=000&border_color=30A3DC&title_color=6699FF&text_color=FFF&hide=ejs)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ernandotr&theme=tokyonight&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ernandotr&theme=buefy-dark&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
