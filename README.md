@@ -8,6 +8,6 @@
 ### Statistics 📈
 ---
 ![Ernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ernandotr&theme=tokyonight&bg_color=000&border_color=30A3DC&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernandotr&show_icons=true)
+![Ernando's GitHub stats](https://github-readme-stats.vercel.app/api?username=ernandotr&show_icons=true)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ernandotr&layout=compact&bg_color=000&border_color=30A3DC&title_color=6699FF&text_color=FFF&hide=ejs)
